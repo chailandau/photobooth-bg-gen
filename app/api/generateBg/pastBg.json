@@ -1,306 +1,82 @@
 [
   {
-    "jobTitle": "Apothecary Owner",
-    "bgDesc": "Shelves upon shelves of intricately labeled jars and ornate containers line the walls, filled with an assortment of rare and exotic ingredients, their contents glowing softly in the flickering light of lanterns. The air is thick with the scent of dried flowers, spices, and mysterious essences, and the sound of gentle simmering and soft clinking of glassware fills the space. In the right back of the room, a beautifully crafted wooden counter stands, adorned with mortars, pestles, and other tools of the apothecary's art."
-  },
-  {
-    "jobTitle": "Candlemaker",
-    "bgDesc": "a dimly lit candle warehouse interior of a shop with rows of wooden shelves stocked with candles of various sizes and colors, with a large wooden counter in the foreground and a few candles burning softly"
-  },
-  {
-    "jobTitle": "Clockmaker",
-    "bgDesc": "a cluttered and dusty clock shop workshop with old clock parts and tools scattered across a wooden workbench, with a large clock face on the wall and a few clock towers in the background"
-  },
-  {
-    "jobTitle": "Engraver",
-    "bgDesc": "A workshop filled with half-finished projects and scattered metal shavings, the scent of oil and metal polish hangs heavy in the air as a large, worn wooden desk dominates the right back of the room, adorned with an array of precision tools and a vice that has seen countless hours of use. A nearby shelf is lined with rows of gleaming metal plates, awaiting the Engraver's skilled touch to bring intricate designs to life. In the corner, a small, leather-bound book lies open, filled with sketches and notes detailing the Engraver's latest commissions."
-  },
-  {
-    "jobTitle": "Fossil collector",
-    "bgDesc": "A study filled with the musty scent of aged earth and the faint hint of decay, shelves upon shelves of dusty, worn wooden cabinets stretch towards the ceiling, each one overflowing with an assortment of fossilized treasures: ancient trilobites, petrified tree trunks, and mysterious, unidentifiable relics. A large, ornate desk in the right back of the room is cluttered with half-unwrapped specimens, scattered papers, and an array of delicate, precision tools. In the corner, a worn, leather-bound journal lies open, filled with meticulous notes and sketches of the Fossil Collector's latest discoveries."
-  },
-  {
-    "jobTitle": "Glassblower",
-    "bgDesc": "A sweltering, sun-drenched studio filled with the sweet, acrid scent of molten glass, the air thick with the heat emanating from the glowing furnace that dominates the right back of the room. Shelves and workbenches are cluttered with an array of colorful, twisted glass rods, delicate metal jacks, and wooden blocks, while a nearby annealer hums softly, its interior glowing like a miniature furnace. In the corner, a half-finished vase sits on a workbench, its delicate, swirling patterns seeming to shimmer in the intense heat."
-  },
-  {
-    "jobTitle": "Herbalist",
-    "bgDesc": "An apothecary filled with the earthy, pungent aromas of dried herbs and the soft, golden glow of candlelight, shelves upon shelves of wooden cabinets and woven baskets overflowing with an assortment of jars, pouches, and bundles of dried plants, each one meticulously labeled and organized. A large, worn wooden table in the right back of the room is cluttered with mortars and pestles, delicate glass vials, and an array of ancient, leather-bound tomes. In the corner, a small, steaming cauldron sits atop a low-burning fire, its contents emitting a fragrant, soothing vapor."
-  },
-  {
-    "jobTitle": "Mapmaker",
-    "bgDesc": "An old office filled with parchment, quills, and topographical maps, with a large wooden desk in the right back of the room and a few globes and compasses scattered around"
-  },
-  {
-    "jobTitle": "Milliner",
-    "bgDesc": "A bright, airy atelier filled with the soft rustle of fabrics and the sweet scent of flowers, rows of tall, wooden shelves lined with an array of exquisite hats in various stages of completion, each one a masterpiece of feathers, lace, and silk. A large, ornate mirror dominates one wall, reflecting the Milliner's skilled hands as they work their magic on a delicate, velvet chapeau. In the corner, a small, elegant table is set with an assortment of hat blocks, ribbons, and trims, while a nearby basket overflows with an abundance of fresh flowers, waiting to be transformed into the perfect adornment."
-  },
-  {
-    "jobTitle": "Music teacher",
-    "bgDesc": "A warm, inviting studio filled with the rich, resonant tones of music, the walls adorned with shelves of worn, leather-bound sheet music and framed photographs of past students, while a beautifully polished grand piano takes right back stage, its lid open in invitation. A comfortable, worn armchair sits in one corner, surrounded by a scattering of music stands, metronomes, and half-filled cups of coffee, evidence of countless hours of dedicated instruction. In the background, a chalkboard covered in scribbled notes and musical notation adds a touch of nostalgia to the space."
-  },
-  {
-    "jobTitle": "Painter",
-    "bgDesc": "A sun-drenched studio filled with the vibrant colors and pungent smells of art, canvases in various stages of completion leaning against walls and easels, while paint-splattered palettes and brushes of every shape and size litter the workbenches and tables. A large, north-facing window floods the space with natural light, illuminating the Painter's latest masterpiece-in-progress, a riot of color and texture that seems to pulse with energy. In the corner, a worn, velvet-covered armchair is piled high with art books, sketchpads, and crumpled up drafts, a testament to the Painter's constant pursuit of inspiration."
-  },
-  {
-    "jobTitle": "Perfumer",
-    "bgDesc": "A intimate laboratory filled with the heady, intoxicating aromas of essential oils and the soft, golden glow of apothecary jars, rows of delicate, glass vials and intricately carved wooden cabinets lining the walls, each one filled with a treasure trove of fragrant ingredients. A large, ornate desk in the right back of the room is cluttered with tiny, precision scales, pipettes, and an array of small, leather-bound notebooks, the Perfumer's most prized possessions. In the corner, a beautifully crafted, antique still sits atop a low-burning flame, its delicate, curved neck releasing a wispy trail of fragrant steam into the air."
-  },
-  {
-    "jobTitle": "Pianoforte Maker",
-    "bgDesc": "A spacious, well-lit workshop filled with the sweet scent of wood and the soft, golden glow of polished mahogany, rows of workbenches and wooden cabinets lining the walls, each one cluttered with an array of precision tools, strings, and intricate mechanisms. A half-finished pianoforte sits on a central workbench, its beautifully crafted legs and body awaiting the delicate touch of the Pianoforte Maker's skilled hands. In the corner, a large, wooden chest overflowing with rolls of felt, hammers, and other specialized tools stands as a testament to the craftsman's dedication to their art."
-  },
-  {
-    "jobTitle": "Printmaker",
-    "bgDesc": "An industrious studio filled with the pungent smell of ink and the soft, rhythmic sound of presses, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of metal plates, etching needles, and bundles of paper. A large, wooden press dominates the right back of the room, its worn, leather-covered handle and intricately carved metal plates a testament to years of use. In the corner, a small, cluttered desk is covered in sketches, proofs, and half-finished prints, the Printmaker's latest project spread out like a puzzle waiting to be solved."
-  },
-  {
-    "jobTitle": "Silversmith",
-    "bgDesc": "A large, ornate anvil sits at the right back of the room, its worn, leather-covered surface bearing the scars of countless hammer blows. In the corner, a small, glowing forge crackles and spits, its flames casting a warm, golden light on the Silversmith's latest creation, a delicate, filigree-patterned vase that seems to shimmer in the firelight."
-  },
-  {
-    "jobTitle": "Stationer",
-    "bgDesc": "A cozy, well-organized shop filled with the musty smell of paper and the soft, golden glow of leather-bound tomes, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of fine papers, inks, and writing instruments. A large, ornate desk sits at the right back of the room, its surface cluttered with quills, inkwells, and half-finished letters, the Stationer's latest project spread out like a puzzle waiting to be solved. In the corner, a small, wooden chest overflowing with rolls of parchment, seals, and wax stamps stands as a testament to the Stationer's dedication to the art of correspondence."
-  },
-  {
-    "jobTitle": "Toy Maker",
-    "bgDesc": "A whimsical, cluttered workshop filled with the sweet scent of wood and the soft, cheerful sound of wooden blocks and toys, rows of wooden shelves and cabinets lining the walls, each one overflowing with an array of half-finished toys, paints, and intricate mechanisms. A large, wooden workbench sits at the right back of the room, its surface cluttered with tiny, delicate parts, tools, and half-assembled toys, the Toy Maker's latest creation taking shape beneath their skilled hands. In the corner, a small, colorful chest overflowing with an assortment of fabrics, buttons, and other trimmings stands as a testament to the Toy Maker's imagination and creativity."
-  },
-  {
-    "jobTitle": "Umbrella Maker",
-    "bgDesc": "A well-lit workshop filled with the smell of wood, canvas, and the soft, rhythmic sound of stitching, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of umbrella frames, ribs, and colorful fabrics. A large, wooden workbench sits at the right back of the room, its surface cluttered with half-finished umbrellas, threads, and intricate mechanisms, the Umbrella Maker's latest creation taking shape beneath their skilled hands. In the corner, a small, wooden rack stands, holding a collection of finished umbrellas, their vibrant colors and delicate patterns a testament to the Umbrella Maker's craftsmanship."
-  },
-  {
-    "jobTitle": "Watchmaker",
-    "bgDesc": "A workshop filled with the soft, metallic tick-tock of clockwork and the faint scent of oil and metal polish, rows of wooden shelves and cabinets lining the walls, each one cluttered with an array of intricate gears, springs, and delicate tools. A large, ornate workbench sits at the right back of the room, its surface covered in a maze of tiny, precision instruments, half-assembled timepieces, and scattered notes, the Watchmaker's latest creation taking shape beneath their skilled hands. In the corner, a small, glass-fronted cabinet stands, displaying a collection of exquisite, intricately crafted timepieces, their delicate mechanisms a testament to the Watchmaker's mastery of their craft."
-  },
-  {
-    "jobTitle": "Weaving Artisan",
-    "bgDesc": "a cozy and organized weaving studio with several wooden looms of various sizes, surrounded by shelves stacked with spools of thread in a rainbow of colors, with baskets of yarn and half-finished textiles scattered around, and a few finished pieces hanging from the walls or draped over chairs"
-  },
-  {
-    "jobTitle": "Woodcarver",
-    "bgDesc": "A rustic, well-lit workshop filled with the earthy scent of wood and the soft, rhythmic sound of chiseling, rows of wooden shelves and cabinets lining the walls, each one cluttered with an array of half-finished carvings, tools, and wooden blocks. A large, sturdy workbench sits at the right back of the room, its surface covered in shavings and scraps of wood, the Woodcarver's latest creation taking shape beneath their skilled hands. In the corner, a small, wooden chest overflowing with an assortment of wooden figurines, decorative boxes, and other intricately carved items stands as a testament to the Woodcarver's skill and creativity."
-  },
-  {
-    "jobTitle": "Bookbinder",
-    "bgDesc": "A shop filled with the musty smell of old books and the soft, tactile sound of paper and leather, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of books in various stages of repair, rolls of paper, and spools of thread. A large, wooden workbench sits at the right back of the room, its surface cluttered with half-bound books, tools, and scraps of leather, the Bookbinder's latest project spread out like a puzzle waiting to be solved. In the corner, a small, ornate press stands, its wooden boards adorned with intricate carvings, a testament to the Bookbinder's dedication to the art of preserving knowledge."
-  },
-  {
-    "jobTitle": "Calligrapher",
-    "bgDesc": "A serene, well-lit studio filled with the soft, elegant sound of nibs scratching against paper and the sweet scent of ink, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of handmade papers, inks, and precision calligraphy tools. A large, ornate desk sits at the right back of the room, its surface cluttered with half-finished manuscripts, quills, and inkwells, the Calligrapher's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden chest overflowing with an assortment of rare, handmade papers and exotic inks stands as a testament to the Calligrapher's dedication to the art of beautiful writing."
-  },
-  {
-    "jobTitle": "Chemist",
-    "bgDesc": "A laboratory filled with the pungent smells of chemicals and the soft, gentle bubbling of flasks, rows of wooden shelves and cabinets lining the walls, each one cluttered with an array of beakers, test tubes, and mysterious, labeled bottles. A large, wooden workbench sits at the right back of the room, its surface covered in a maze of equipment, half-conducted experiments, and scattered notes, the Chemist's latest discovery taking shape beneath their skilled hands. In the corner, a small, intricately carved wooden cabinet stands, its doors adorned with symbols of the ancient alchemists, a testament to the Chemist's pursuit of the secrets of matter."
-  },
-  {
-    "jobTitle": "Embroiderer",
-    "bgDesc": "A cozy, well-lit studio filled with the soft, gentle sound of needles and threads, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of colorful threads, fabrics, and intricate embroidery hoops. A large, ornate frame sits at the right back of the room, its surface covered in a beautiful, half-finished tapestry, the Embroiderer's latest creation taking shape beneath their skilled hands. In the corner, a small, delicate wooden box overflowing with an assortment of tiny, shimmering beads and sequins stands as a testament to the Embroiderer's attention to detail and love of beauty."
-  },
-  {
-    "jobTitle": "Enamelist",
-    "bgDesc": "A warm, well-lit studio filled with the sweet scent of molten glass and the soft, gentle sound of kilns humming in the background, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of colorful glass powders, metal forms, and intricate enamel pieces. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished projects, kiln-fired pieces, and scattered notes, the Enamelist's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, enamel-inlaid designs, a testament to the Enamelist's mastery of their craft."
-  },
-  {
-    "jobTitle": "Farrier",
-    "bgDesc": "A rustic, well-lit barn filled with the earthy scent of horses and the sound of hammering on metal, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of horseshoes, nails, and specialized tools. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished horseshoes, scattered notes, and worn leather aprons, the Farrier's latest project taking shape beneath their skilled hands. In the corner, a small, wooden chest overflowing with an assortment of horse shoes, nails, and other equine supplies stands as a testament to the Farrier's dedication to the care and well-being of horses."
-  },
-  {
-    "jobTitle": "Glazier",
-    "bgDesc": "A bright, well-lit workshop filled with the soft, gentle sound of cutting and grinding, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of glass sheets, cutting tools, and intricate glass pieces. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished projects, scattered notes, and worn leather aprons, the Glazier's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, stained-glass designs, a testament to the Glazier's mastery of their craft."
-  },
-  {
-    "jobTitle": "Jeweler",
-    "bgDesc": "A luxurious, well-lit studio filled with the sparkle of precious gems and the soft, gentle sound of precision tools, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of glittering jewels, gold and silver chains, and intricate jewelry pieces. A large, ornate workbench sits at the right back of the room, its surface covered in a maze of half-finished projects, scattered notes, and worn leather aprons, the Jeweler's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, gemstone-inlaid designs, a testament to the Jeweler's mastery of their craft."
-  },
-  {
-    "jobTitle": "Luthier",
-    "bgDesc": "A cozy, well-lit workshop filled with the soft, gentle sound of strings being tuned, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of wooden instrument bodies, strings, and intricate hardware. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished instruments, scattered notes, and worn leather aprons, the Luthier's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, inlaid designs, a testament to the Luthier's mastery of their craft."
-  },
-  {
-    "jobTitle": "Miniature Painter",
-    "bgDesc": "An intimate studio filled with the soft, gentle sound of brushes stroking canvas, rows of small, delicate easels and cabinets lining the walls, each one stacked with an array of miniature canvases, paints, and intricate brushes. A small, ornate desk sits at the right back of the room, its surface covered in a maze of half-finished miniatures, scattered notes, and worn magnifying glasses, the Miniature Painter's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden box stands, its lid adorned with intricate, painted designs, a testament to the Miniature Painter's mastery of their craft."
-  },
-  {
-    "jobTitle": "Music Engraver",
-    "bgDesc": "A quiet, well-lit office filled with the soft, gentle sound of scratching and scraping, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of music sheets, engraving tools, and intricate metal plates. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished engravings, scattered notes, and worn leather aprons, the Music Engraver's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, engraved designs, a testament to the Music Engraver's mastery of their craft."
-  },
-  {
-    "jobTitle": "Naturalist",
-    "bgDesc": "A cozy, cluttered study filled with the musty scent of old books and the soft, gentle sound of pages turning, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of dusty tomes, specimens, and intricate scientific instruments. A large, worn desk sits at the right back of the room, its surface covered in a maze of half-finished manuscripts, scattered notes, and worn leather-bound journals, the Naturalist's latest discovery taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, hand-carved designs, a testament to the Naturalist's love of the natural world."
-  },
-  {
-    "jobTitle": "Numismatist",
-    "bgDesc": "A dimly lit, cluttered study filled with the musty scent of old coins and the soft, gentle sound of pages turning, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of ancient coins, currency, and intricate numismatic instruments. A large, worn desk sits at the right back of the room, its surface covered in a maze of half-finished catalogs, scattered notes, and worn leather-bound albums, the Numismatist's latest discovery taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, coin-inlaid designs, a testament to the Numismatist's passion for the art of coin collecting."
-  },
-  {
-    "jobTitle": "Oboist",
-    "bgDesc": "A well-lit music room filled with the soft, gentle sound of reeds being prepared, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of oboes, reeds, and intricate music sheets. A large, comfortable chair sits at the right back of the room, its surface covered in a maze of half-finished scores, scattered notes, and worn leather-bound cases, the Oboist's latest piece taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, inlaid designs, a testament to the Oboist's love of music and craftsmanship."
-  },
-  {
-    "jobTitle": "Organist",
-    "bgDesc": "A grand, majestic space filled with the resonant sound of pipes and the soft, gentle glow of stained glass, rows of wooden pews and ornate carvings lining the walls, each one adorned with intricate designs and symbols of faith. A large, imposing organ console sits at the right back of the room, its surface covered in a maze of stops, pedals, and intricate mechanisms, the Organist's skilled hands moving deftly over the keys. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, carved designs, a testament to the Organist's mastery of their instrument."
-  },
-  {
-    "jobTitle": "Potter",
-    "bgDesc": "An earthy studio filled with the scent of clay and the soft, gentle sound of the wheel, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of clay bodies, glazes, and intricate pottery tools. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished pieces, scattered notes, and worn leather aprons, the Potter's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden kiln stands, its doors adorned with intricate, ceramic designs, a testament to the Potter's mastery of their craft."
-  },
-  {
-    "jobTitle": "Quilter",
-    "bgDesc": "A cozy workshop filled with fabrics and the scent of cotton, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of colorful fabrics, threads, and intricate quilting tools. A large, sturdy worktable sits at the right back of the room, its surface covered in a maze of half-finished quilts, scattered notes, and worn thimbles, the Quilter's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden chest stands, its lid adorned with intricate, quilted designs, a testament to the Quilter's love of stitching and storytelling."
-  },
-  {
-    "jobTitle": "Restorer",
-    "bgDesc": "A dimly lit, cluttered workshop filled with the musty scent of old artifacts and the soft, gentle sound of brushes, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of delicate artifacts, conservation materials, and intricate restoration tools. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished projects, scattered notes, and worn gloves, the Restorer's latest conservation effort taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, restored carvings, a testament to the Restorer's dedication to preserving the past."
-  },
-  {
-    "jobTitle": "Sculptor",
-    "bgDesc": "A spacious, well-lit studio filled with the scent of clay and the soft, gentle sound of chiseling, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of modeling clays, armatures, and intricate sculpting tools. A large, sturdy worktable sits at the right back of the room, its surface covered in a maze of half-finished pieces, scattered notes, and worn aprons, the Sculptor's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden pedestal stands, its surface adorned with intricate, sculpted designs, a testament to the Sculptor's mastery of their craft."
-  },
-  {
-    "jobTitle": "Taxidermist",
-    "bgDesc": "A clean and tidy workshop filled with the scent of preservatives and the soft, gentle sound of stuffing and mounting, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of specimens, taxidermy tools, and intricate mounting forms. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished mounts, scattered notes, and worn gloves, the Taxidermist's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden display case stands, its shelves adorned with intricately posed and mounted specimens, a testament to the Taxidermist's artistry and attention to detail."
-  },
-  {
-    "jobTitle": "Upholsterer",
-    "bgDesc": "A cozy, well-lit workshop filled with the scent of fabric and the soft, gentle sound of sewing and stuffing, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of fabrics, threads, and intricate upholstery tools. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished projects, scattered notes, and worn thimbles, the Upholsterer's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden chair stands, its upholstery intricately designed and stitched, a testament to the Upholsterer's mastery of their craft."
-  },
-  {
-    "jobTitle": "Violin Maker",
-    "bgDesc": "An intimate workshop filled with the sweet scent of wood and the soft, gentle sound of chiseling and carving, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of violin bodies, necks, and intricate woodworking tools. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished violins, scattered notes, and worn chisels, the Violin Maker's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden violin case stands, its lid adorned with intricate, inlaid designs, a testament to the Violin Maker's mastery of their craft."
-  },
-  {
-    "jobTitle": "Watchmaker",
-    "bgDesc": "A small, precise workshop filled with the soft, gentle sound of ticking and the scent of oil and metal, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of watch parts, tools, and intricate timepieces. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished watches, scattered notes, and worn loupe, the Watchmaker's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden clock stands, its face intricately engraved, a testament to the Watchmaker's mastery of time and precision."
-  },
-  {
-    "jobTitle": "Xylophonist",
-    "bgDesc": "A bright, airy studio filled with the sweet sound of ringing notes and the scent of wood and metal, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of xylophones, mallets, and intricate music sheets. A large, sturdy music stand sits at the right back of the room, its surface covered in a maze of half-finished compositions, scattered notes, and worn mallets, the Xylophonist's latest piece taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden xylophone stands, its keys shimmering in the light, a testament to the Xylophonist's mastery of their instrument."
-  },
-  {
-    "jobTitle": "Zoologist",
-    "bgDesc": "A spacious, well-lit laboratory filled with the scent of animals, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of specimens, microscopes, and intricate research equipment. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished research projects, scattered notes, and worn gloves, the Zoologist's latest discovery taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden terrarium stands, its inhabitants thriving in a miniature ecosystem, a testament to the Zoologist's dedication to understanding the natural world."
-  },
-  {
-    "jobTitle": "Early Automobile Engineer",
-    "bgDesc": "A cluttered, dimly lit workshop filled with the sound of machinery, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of engine parts, tools, and intricate blueprints. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished prototypes, scattered notes, and worn gloves, the Early Automobile Engineer's latest innovation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden model of an early automobile stands, its intricate details a testament to the Engineer's vision for the future of transportation."
-  },
-  {
-    "jobTitle": "Camera Obscura Operator",
-    "bgDesc": "A dark, mysterious room filled with the soft, gentle sound of light filtering through, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of lenses, mirrors, and intricate optical instruments. A large, sturdy camera obscura sits at the right back of the room, its surface covered in a maze of half-finished images, scattered notes, and worn velvet drapes, the Operator's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden box stands, its lid adorned with intricate, hand-carved designs, a testament to the Operator's mastery of the art of capturing light."
-  },
-  {
-    "jobTitle": "Phonograph Operator",
-    "bgDesc": "A dimly lit, nostalgic room filled with the scent of old records and the soft, gentle sound of music playing, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of phonograph cylinders, records, and intricate mechanical devices. A large, sturdy phonograph machine sits at the right back of the room, its surface covered in a maze of half-played records, scattered notes, and worn headphones, the Operator's latest recording taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden cabinet stands, its doors adorned with intricate, hand-carved designs, a testament to the Operator's dedication to preserving the sounds of the past."
+    "jobTitle": "Brewer",
+    "bgDesc": "In the empty, warm, dimly lit brewhouse, there are rows of gleaming copper kettles and wooden fermentation tanks, the air thick with the sweet, malty aroma of fermenting beer. The sound of bubbling brew and the gentle hiss of steam valves create a soothing background hum. In the distance, the rustic wooden barrels stacked in the cellar await, ready to be filled with the brewer's latest creation, a testament to their skill and dedication to the ancient craft."
   },
   {
     "jobTitle": "Clock Maker",
-    "bgDesc": "A small, precise workshop filled with the soft, gentle sound of ticking and the scent of oil and metal, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of clock parts, tools, and intricate timepieces. A large, sturdy workbench sits at the right back of the room, its surface covered in a maze of half-finished clocks, scattered notes, and worn loupe, the Clock Maker's latest creation taking shape beneath their skilled hands. In the corner, a small, beautifully crafted wooden clock stands, its face intricately engraved, a testament to the Clock Maker's mastery of time and precision."
-  },
-  {
-    "jobTitle": "Steam Engine Conductor",
-    "bgDesc": "A bustling, industrial space filled with the sound of hissing steam and the scent of coal and metal, rows of wooden shelves and cabinets lining the walls, each one stacked with an array of steam engine parts, tools, and intricate gauges. A large, sturdy control panel sits at the right back of the room, its surface covered in a maze of dials, levers, and gauges, the Conductor's skilled hands moving deftly over the controls as they expertly guide the steam engine's powerful machinery. In the corner, a small, beautifully crafted wooden model of a steam locomotive stands, its intricate details a testament to the Conductor's pride in their work."
-  },
-  {
-    "jobTitle": "Zepelin Pilot",
-    "bgDesc": "Standing on the open-air control car of the majestic airship, the pilot gazes out at the endless expanse of clouds and sky, the wind whipping through their hair as the vessel soars above the rolling hills and patchwork fields below. The intricate network of gondola wires and control lines stretches out before them, a testament to the marvel of modern engineering. In the distance, the faint outline of a city skyline rises, a destination waiting to be reached."
-  },
-  {
-    "jobTitle": "Hot Air Baloon Operator",
-    "bgDesc": "From the wicker basket of the vibrant balloon, the operator surveys the serene landscape unfolding below, the early morning sun casting a warm glow over the dew-kissed fields and forests. The burner's gentle roar punctuates the peaceful atmosphere as the balloon drifts lazily above the treetops, its colorful envelope a beacon of wonder against the blue sky. In the distance, a misty lake shimmers, its surface reflecting the balloon's majestic silhouette."
-  },
-  {
-    "jobTitle": "Oil Barron",
-    "bgDesc": "From the opulent office high above the dusty, sun-baked plains, the oil baron gazes out upon the sprawling landscape of derricks and pipelines, the rhythmic pumpjacks nodding like giant metal birds as they extract the black gold from the earth. The air is thick with the smell of crude and the sound of machinery hums in the distance, a constant reminder of the baron's grip on the global energy market. In the distance, the skeletal towers of refineries rise, a testament to the baron's unyielding pursuit of wealth and power."
-  },
-  {
-    "jobTitle": "Rail Baron",
-    "bgDesc": "Standing on the observation platform of their luxurious private car, the rail baron gazes out at the endless expanse of steel rails stretching across the American heartland, the rhythmic clickety-clack of the wheels on the tracks a soothing accompaniment to the hum of power and progress. The ornate wood paneling and plush velvet drapes of the car's interior seem to fade into the background as the baron's eyes focus on the horizon, where the next great opportunity awaits. In the distance, the smokestacks of industrial cities rise, a testament to the empire he has built."
-  },
-  {
-    "jobTitle": "Steel Baron",
-    "bgDesc": "From the imposing stone façade of their Pittsburgh mansion, the steel baron gazes out upon the fiery landscape of his industrial kingdom, the blast furnaces and rolling mills of his steelworks complex blazing like a titan's forge in the night. The air is thick with the acrid smell of smoke and sweat, the clang of hammering steel and the rumble of machinery a constant reminder of the empire that was forged. In the distance, the Monongahela River winds its way through the valley, a lifeblood of commerce and industry."
-  },
-  {
-    "jobTitle": "Shipping Baron",
-    "bgDesc": "From the ornate office overlooking the bustling harbor, the shipping baron gazes out upon the forest of masts and funnels, the majestic steamships and sleek clippers that are the lifeblood of his empire. The sound of gulls crying and the salty tang of sea air fill the atmosphere as the baron's eyes scan the horizon, tracking the movements of their fleet as they ply the world's oceans. In the distance, the towering cranes of the dockyards rise, a testament to the baron's dominance of the global shipping lanes."
-  },
-  {
-    "jobTitle": "Steam Ship Captain",
-    "bgDesc": "From the bridge of their majestic steamship, the captain gazes out upon the endless expanse of ocean, the vessel's wake streaming behind like a white bridal veil as it cuts through the waves. The salty spray of the sea mingles with the coal smoke and steam that billows from the funnels, the rhythmic throb of the engines a reassuring heartbeat beneath his feet. In the distance, the faint outline of a distant port rises, a haven of commerce and adventure waiting to be reached."
-  },
-  {
-    "jobTitle": "Intrepid Explorer",
-    "bgDesc": "Deep in the heart of the uncharted jungle, the intrepid explorer stands at the edge of a mist-shrouded clearing, the sounds of the tropical rainforest swirling around them like a living entity. The air is thick with the scent of exotic blooms and the calls of unseen birds, the explorer's weathered pith helmet and worn leather gear a testament to the countless adventures that have brought them to this moment. In the distance, the ancient ruins of a lost civilization loom, their crumbling spires and vine-covered walls beckoning the explorer deeper into the unknown."
-  },
-  {
-    "jobTitle": "Saloon Owner",
-    "bgDesc": "Behind the polished mahogany bar of the Golden Nugget Saloon, the owner surveys the bustling room, the warm glow of lanterns and the murmur of hushed conversations creating a sense of conviviality and possibility. The air is thick with the smell of smoke and whiskey, the sound of poker chips clinking and the occasional burst of laughter punctuating the evening air. In the distance, the swinging doors creak open and shut, admitting a steady stream of dusty cowboys, weary travelers, and hopeful prospectors, all seeking refuge and fortune in the lawless frontier town."
-  },
-  {
-    "jobTitle": "Architect",
-    "bgDesc": "From the drafting table of their cluttered studio, the architect gazes out upon the sprawling cityscape, the intricate network of streets and buildings a testament to the beauty and complexity of human ingenuity. The air is thick with the smell of graphite and paper, the sound of pencils scratching and papers shuffling a soothing accompaniment to the architect's creative process. In the distance, the skeletal framework of a new skyscraper rises, a gleaming monument to the architect's vision and skill, waiting to take its place among the city's iconic landmarks."
-  },
-  {
-    "jobTitle": "Rancher",
-    "bgDesc": "From the weathered porch of the ranch house, the rancher gazes out upon the endless expanse of rolling hills and open range, the sun-baked landscape stretching out to the horizon like a sea of gold. The air is thick with the smell of fresh earth and cattle, the sound of birdsong and the distant lowing of livestock a soothing accompaniment to the rancher's daily routine. In the distance, the rugged silhouette of the ranch's cattle herd grazes peacefully, a testament to the rancher's hard work and dedication to the land."
+    "bgDesc": "There is an empty, cluttered and dusty clock shop workshop with old clock parts and tools scattered across a wooden workbench, with a large clock face on the wall and a few clock towers in the background"
   },
   {
     "jobTitle": "Field Nurse",
-    "bgDesc": "Under the canvas awning of a makeshift field hospital, the nurse tends to the wounded, the sounds of gunfire and artillery fire echoing in the distance, mingling with the cries of the injured and the murmur of medical staff. The air is thick with the smell of disinfectant and blood, the nurse's hands moving with precision and compassion as they work to save lives amidst the chaos of war. In the distance, the battle-scarred landscape stretches out, a testament to the devastating cost of conflict, and the nurse's unwavering dedication to healing and humanity."
+    "bgDesc": "There is an empty makeshift field hospital with a canvas awning. The sounds of gunfire and artillery fire echoing in the distance, mingling with the cries of the injured and the murmur of medical staff. The air is thick with the smell of disinfectant and blood. In the distance, the battle-scarred landscape stretches out, a testament to the devastating cost of conflict, and the nurse's unwavering dedication to healing and humanity."
   },
   {
-    "jobTitle": "Land Surveyor",
-    "bgDesc": "Deep in the wilderness, the land surveyor stands at the edge of a sprawling field with trees in the distance, the sun-dappled trees stretching out before them like a sea of green. The air is crisp and clean, the sound of birdsong and rustling leaves filling the air as the surveyor consults their maps and instruments, seeking to unlock the secrets of the untamed land. In the distance, the misty outline of a distant mountain range rises, a challenge waiting to be conquered, and the surveyor's skills put to the test."
-  },
-  {
-    "jobTitle": "Lumber Baron",
-    "bgDesc": "From the grand office of their timber empire, the lumber baron gazes out upon the sprawling landscape of forest and mill, the sound of saws and axes ringing through the air as the ancient trees fall to the axes of his loggers. The air is thick with the smell of fresh-cut wood and the scent of pine, the baron's eyes gleaming with pride as he surveys the vast expanse of his domain. In the distance, the towering stacks of lumber rise, a testament to the baron's unyielding drive and the unrelenting march of progress."
+    "jobTitle": "Intrepid Explorer",
+    "bgDesc": "Deep in the heart of the empty, uncharted jungle, there is a mist-shrouded clearing, the sounds of the tropical rainforest swirling around like a living entity. The air is thick with the scent of exotic blooms and the calls of unseen birds. In the distance, the ancient ruins of a lost civilization loom, their crumbling spires and vine-covered walls beckoning deeper into the unknown."
   },
   {
     "jobTitle": "Journalist",
-    "bgDesc": "In the smoke-filled newsroom of the city's leading daily, the journalist sits at their cluttered desk, surrounded by stacks of papers, notes, and photographs, the sound of clacking typewriters and murmured conversations filling the air. The smell of fresh ink and stale coffee wafts through the room, as the journalist pores over the latest scoop, racing against the clock to meet the evening deadline. In the distance, the city's bustling streets stretch out, a never-ending source of stories waiting to be uncovered, and the journalist's keen instincts on high alert."
+    "bgDesc": "In the empty, smoke-filled newsroom of the city's leading daily, there is a cluttered desk, surrounded by stacks of papers, notes, and photographs, the sound of clacking typewriters and murmured conversations filling the air. The smell of fresh ink and stale coffee wafts through the room. In the distance, the city's bustling streets stretch out, a never-ending source of stories waiting to be uncovered."
   },
   {
-    "jobTitle": "Brewer",
-    "bgDesc": "In the warm, dimly lit brewhouse, the brewer stands amidst the rows of gleaming copper kettles and wooden fermentation tanks, the air thick with the sweet, malty aroma of fermenting beer. The sound of bubbling brew and the gentle hiss of steam valves create a soothing background hum, as the brewer carefully monitors the temperature and gravity of the latest batch. In the distance, the rustic wooden barrels stacked in the cellar await, ready to be filled with the brewer's latest creation, a testament to their skill and dedication to the ancient craft."
+    "jobTitle": "Land Surveyor",
+    "bgDesc": "Deep in the empty wilderness, there is a sprawling field with trees in the distance, the sun-dappled trees stretching out like a sea of green. The air is crisp and clean, the sound of birdsong and rustling leaves filling the air. There are maps and instruments scattered about. In the distance, the misty outline of a distant mountain range rises, a challenge waiting to be conquered"
   },
   {
-    "jobTitle": "Baker",
-    "bgDesc": "In the warm, golden light of the bakery, the baker stands amidst the rows of wooden shelves and mixing tables, the air thick with the sweet, comforting aromas of freshly baked bread and pastries. The sound of mixing and kneading fills the air, as the baker's skilled hands shape and mold the dough into perfect loaves and treats. In the distance, the brick oven glows, its warm heat and gentle crackle a promise of the delicious creations to come, and the baker's pride and joy."
+    "jobTitle": "Lumber Baron",
+    "bgDesc": "There is an empty grand office of someone high up in the timber empire, looking out upon the sprawling landscape of forest and mill, the sound of saws and axes ringing through the air as the ancient trees fall to the axes of loggers. The air is thick with the smell of fresh-cut wood and the scent of pine. In the distance, the towering stacks of lumber rise"
+  },
+  {
+    "jobTitle": "Milliner",
+    "bgDesc": "A bright, airy, empty atelier filled with the soft rustle of fabrics and the sweet scent of flowers, rows of tall, wooden shelves lined with an array of exquisite hats in various stages of completion, each one a masterpiece of feathers, lace, and silk. A large, ornate mirror dominates one wall. In the corner, a small, elegant table is set with an assortment of hat blocks, ribbons, and trims, while a nearby basket overflows with an abundance of fresh flowers, waiting to be transformed into the perfect adornment."
   },
   {
     "jobTitle": "Postmaster",
-    "bgDesc": "Behind the worn wooden counter of the small town post office, the postmaster sorts and arranges the day's mail, the sound of stamps being licked and envelopes being sealed filling the air. The smell of paper and ink wafts through the room, as the postmaster's hands move with precision and care, ensuring that each letter and package reaches its destination. In the distance, the rural landscape stretches out, a network of roads and trails connecting the scattered farms and homes, and the postmaster's role as a vital link in the community's communication."
+    "bgDesc": "There is an empty, worn wooden counter of the small town post officewhere the day's mail sits, the sound of stamps being licked and envelopes being sealed filling the air. The smell of paper and ink wafts through the room. In the distance, the rural landscape stretches out, a network of roads and trails connecting the scattered farms and homes"
   },
   {
-    "jobTitle": "Sherrif",
-    "bgDesc": "From the worn wooden desk of the sheriff's office, the lawman gazes out upon the dusty, sun-baked streets of the small town, the sound of horses' hooves and the occasional gunshot echoing through the air. The smell of leather and gun oil wafts through the room, as the sheriff's eyes scan the wanted posters and crime reports, ever vigilant for signs of trouble. In the distance, the vast expanse of the open range stretches out, a reminder of the sheriff's duty to keep the peace and protect the innocent."
+    "jobTitle": "Railroad investor",
+    "bgDesc": "There is an empty observation platform of a luxurious private car, looking out at the endless expanse of steel rails stretching across the American heartland, the rhythmic clickety-clack of the wheels on the tracks a soothing accompaniment to the hum of power and progress. The ornate wood paneling and plush velvet drapes of the car's interior seem to fade into the background. In the distance, the smokestacks of industrial cities rise"
   },
   {
-    "jobTitle": "Telegraph Operator",
-    "bgDesc": "In the dimly lit telegraph office, the operator sits hunched over the clicking machine, the sound of Morse code dots and dashes filling the air as they tap out messages in rapid succession. The smell of ink and paper wafts through the room, as the operator's fingers fly across the keyboard, transmitting vital information across the wires. In the distance, the hum of the telegraph lines stretches out, a network of invisible threads connecting the operator to the wider world, and the pulse of the nation's communication."
+    "jobTitle": "Rancher",
+    "bgDesc": "There is an empty weathered porch of a ranch house looking out upon the endless expanse of rolling hills and open range, the sun-baked landscape stretching out to the horizon like a sea of gold. The air is thick with the smell of fresh earth and cattle, the sound of birdsong and the distant lowing of livestock. In the distance, the rugged silhouette of the ranch's cattle herd grazes peacefully."
+  },
+  {
+    "jobTitle": "Saloon Owner",
+    "bgDesc": "There is an empty polished mahogany barlooking out at the bustling room, the warm glow of lanterns creating a sense of conviviality and possibility. The air is thick with the smell of smoke and whiskey, the sound of poker chips clinking and the occasional burst of laughter punctuating the evening air. In the distance, the swinging doors creak open and shut."
+  },
+  {
+    "jobTitle": "Sheriff",
+    "bgDesc": "There is an empty, worn wooden desk in the sheriff's office, looking out upon the dusty, sun-baked streets of the small town, the sound of horses' hooves and the occasional gunshot echoing through the air. The smell of leather and gun oil wafts through the room, and on the wall are wanted posters and crime reports. In the distance, the vast expanse of the open range stretches out"
+  },
+  {
+    "jobTitle": "Shipping Investor",
+    "bgDesc": "There is an empty, ornate office overlooking the bustling harborlooking out upon the forest of masts and funnels, the majestic steamships and sleek clippers that are the lifeblood of shipping industry. The sound of gulls crying and the salty tang of sea air fill the atmosphere. In the distance, the towering cranes of the dockyards rise."
+  },
+  {
+    "jobTitle": "Steam Ship Captain",
+    "bgDesc": "There is an empty bridge of a majestic steamship, looking out upon the endless expanse of ocean, the vessel's wake streaming behind as it cuts through the waves. The salty spray of the sea mingles with the coal smoke and steam that billows from the funnels, the rhythmic throb of the engines a reassuring heartbeat. In the distance, the faint outline of a distant port rises, a haven of commerce and adventure waiting to be reached."
   },
   {
     "jobTitle": "Streetcar Conductor",
-    "bgDesc": "On the crowded platform of the streetcar, the conductor stands tall, the bell clanging and the wheels screeching as the car lurches forward, carrying its cargo of commuters through the bustling city streets. The smell of coal smoke fills the air, as the conductor's eyes scan the crowded car, ensuring the safety and comfort of the passengers. In the distance, the towering skyscrapers and bustling streets of the city stretch out, a testament to the conductor's role in keeping the urban machine running smoothly."
+    "bgDesc": "On the empty platform of the streetcar, the bell is clanging and the wheels screeching as the car lurches forward, carrying its cargo through the bustling city streets. The smell of coal smoke fills the air. In the distance, the towering skyscrapers and bustling streets of the city stretch out."
   },
   {
-    "jobTitle": "Telephone Switchboard Operator",
-    "bgDesc": "In the large switchboard room, the operator sits surrounded by rows of switches, wires, and plugs, the sound of ringing phones and murmured conversations filling the air. The smell of electricity and dust wafts through the room, as the operator's fingers fly across the switchboard, connecting calls and patching through connections with precision and speed. In the distance, the city's network of phone lines stretches out, a vast web of communication that the operator helps to weave together, one connection at a time."
+    "jobTitle": "Telegraph Operator",
+    "bgDesc": "There is an empty, dimly lit telegraph office, in it is a telegraph machine, the sound of Morse code dots and dashes filling the air. The smell of ink and paper wafts through the room. In the distance, the hum of the telegraph lines stretches out, a network of invisible threads."
+  },
+  {
+    "jobTitle": "Telephone Operator",
+    "bgDesc": "In the large, empty switchboard room, there are rows of switches, wires, and plugs, the sound of ringing phones filling the air. The smell of electricity and dust wafts through the room. In the distance, the city's network of phone lines stretches out, a vast web of communication."
   },
   {
     "jobTitle": "Typesetter",
-    "bgDesc": "In the dimly lit composing room, the typesetter stands amidst the rows of metal type cases and wooden composing sticks, the sound of clinking metal and rustling paper filling the air. The smell of ink and metal dust wafts through the room, as the typesetter's hands move with precision, selecting and arranging the individual characters to form the words and sentences that will soon become the printed page. In the distance, the presses wait, ready to transform the typesetter's careful work into the daily newspaper, a testament to the power of the written word."
+    "bgDesc": "In the empty, dimly lit composing room, there are rows of metal type cases and wooden composing sticks, the sound of clinking metal and rustling paper filling the air. The smell of ink and metal dust wafts through the room, strewn about are individual characters to form the words and sentences that will soon become the printed page. In the distance, the presses wait, ready to transform the careful work into the daily newspaper, a testament to the power of the written word."
   },
   {
-    "jobTitle": "Silent Film Star",
-    "bgDesc": "On the sun-drenched backlot of the movie studio, the silent film star poses in front of the camera, the sound of clicking cameras and murmured directions filling the air. The smell of makeup and greasepaint wafts through the air, as the star's expressive eyes and dramatic gestures convey the emotions and drama of the scene. In the distance, the iconic Hollywood sign rises, a symbol of the glamour and magic of the silver screen, and the star's own rise to fame."
-  },
-  {
-    "jobTitle": "Museum Curator",
-    "bgDesc": "A grand, high-ceilinged gallery with rows of ornate display cases and towering bookshelves, the walls adorned with intricate frescoes and the soft glow of spotlights casting a warm ambiance. The air is thick with the scent of old books and the whispers of history, as the curator's eyes scan the shelves, searching for the next great discovery."
+    "jobTitle": "Zepelin Pilot",
+    "bgDesc": "There is an empty open-air control car of a majestic airship, looking out at the endless expanse of clouds and sky, the wind whipping as the vessel soars above the rolling hills and patchwork fields below. The intricate network of gondola wires and control lines stretches out before it, a testament to the marvel of modern engineering. In the distance, the faint outline of a city skyline rises, a destination waiting to be reached."
   }
 ]
